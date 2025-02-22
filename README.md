@@ -11,3 +11,8 @@ DOMAIN: SOFTWARE TESTING
 DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/ac2a4c9c-31d0-43e3-a90e-75c7b893aa44)
+![Image](https://github.com/user-attachments/assets/b89b8815-9b2b-4b1e-8fd6-5c371f629212)

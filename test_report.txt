@@ -1,0 +1,15 @@
+Test Execution Report - Login & Navigation Test (Selenium IDE)
+Date: 2025-02-22
+Tester: Nilay Chavan 
+
+-----------------------------------------
+Test Case 1: Login with valid credentials
+Expected: User is redirected to the dashboard.
+Actual: Successfully logged in.
+Status: ✅ Passed
+-----------------------------------------
+Test Case 2: Navigation to Profile Page
+Expected: Clicking "Logout" redirect to the Login page
+Actual: Successfully navigated.
+Status: ✅ Passed
+-----------------------------------------
